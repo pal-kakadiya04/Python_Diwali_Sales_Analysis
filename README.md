@@ -55,7 +55,7 @@ The dataset used is named: `Diwali Sales Data.csv`
 
 1. Clone this repository:
 
-   git clone https://github.com/your-username/diwali-sales-analysis.git
+   git clone https://github.com/pal-kakadiya/diwali-sales-analysis.git
    cd diwali-sales-analysis
 
 2. Install required libraries:
